@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 - 🔹 Programming: C#
-- 🖥️ OS: Linux (Kali, Ubuntu), Windows
+- 🖥️ OS: Linux (Kali), Windows
 
 ## 📚 What I'm Learning
 - 🐧 Linux Basics & Shell Scripting
