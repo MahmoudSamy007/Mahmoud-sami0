@@ -12,10 +12,11 @@
 - 🖥️ OS: Linux (Kali), Windows
 
 ## 📚 What I'm Learning
-- 🐧 Linux Basics & Shell Scripting
-- 🛡️ Cyber Security & Bug Bounty
-- 🌐 Web Security Fundamentals
+- ⌨️ Programming Fundamentals
 - 📡 Networking Fundamentals
+- 🐧 Linux Basics & Shell Scripting
+- 🌐 Web Security Fundamentals
+- 🛡️ Cyber Security & Bug Bounty
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-sami0&show_icons=true&theme=radical)
