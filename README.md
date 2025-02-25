@@ -1,4 +1,4 @@
-### Hi there, I'm Mahmoud Sami! 👋
+### Hi there, I'm Mahmoud Samy! 👋
 
 ![GitHub Banner](https://camo.githubusercontent.com/5f19f0b91e44f40128c1a91218ed67d61c94bd9f7a96a57d5a1b2b77da9d60a7/68747470733a2f2f6b616c797473746174696f6e2e636f6d2f7374617469632f696d616765732f706f7374732f6d61696e2f646576656c6f7065722e676966)
 
@@ -9,7 +9,13 @@
 
 ## 🛠️ Tech Stack
 - 🔹 Programming: C#
-- 🖥️ OS: Linux Kali, Windows
+- 🖥️ OS: Linux (Kali, Ubuntu), Windows
+
+## 📚 What I'm Learning
+- 🐧 Linux Basics & Shell Scripting
+- 🛡️ Cyber Security & Bug Bounty
+- 🌐 Web Security Fundamentals
+- 📡 Networking Fundamentals
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-sami0&show_icons=true&theme=radical)
