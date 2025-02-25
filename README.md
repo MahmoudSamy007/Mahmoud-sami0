@@ -8,18 +8,14 @@
 - 💻 Passionate about Networking, Linux, and Bug Bounty
 
 ## 🛠️ Tech Stack
-- 🔹 Programming: Python, Bash, C
-- 🖥️ OS: Linux (Kali, Ubuntu), Windows
-- 🔍 Security: Burp Suite, Nmap, Wireshark, Metasploit
-- 🌐 Web: HTML, CSS, JavaScript
+- 🔹 Programming: C#
+- 🖥️ OS: Linux Kali, Windows
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahmoud-sami0&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-sami0&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahmoud-samy-1bb69b327)
 
 🚀 Let's hack and learn together!
